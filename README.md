@@ -6,7 +6,9 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Srinivas-yellow)](https://stackoverflow.com/users/19653047/srinivas)
 
 I'm
+
 I am a passionate developer
+
 Gaining knowledge and experience in complete Full-stack development by update my skills on HTML5, CSS3, JavaScript, ReactJS and MongoDB.
 
 ![Visitor Count](https://profile-counter.glitch.me/srinivasbhadini/count.svg)
