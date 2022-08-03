@@ -5,7 +5,6 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Srinivas-green)](https://www.linkedin.com/in/srini-vas-161851247/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Srinivas-yellow)](https://stackoverflow.com/users/19653047/srinivas)
 
-I'm
 
 I am a passionate developer
 
